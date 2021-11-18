@@ -1,0 +1,2 @@
+2021-11-07 13:46:17,893 - logs/preprocess.py.log - INFO - 17 - preprocess.py - read_dataset_amazon - Reading the File /home/lenovo_e14/Documents/Datasets/amazon_review_polarity_csv/train.csv with nRows : None
+2021-11-07 13:46:49,016 - logs/preprocess.py.log - INFO - 17 - preprocess.py - read_dataset_amazon - Reading the File /home/lenovo_e14/Documents/Datasets/amazon_review_polarity_csv/train.csv with nRows : 10000
